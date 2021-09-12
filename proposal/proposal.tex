@@ -5,7 +5,7 @@
 \usepackage[utf8]{inputenc}
 \usepackage[pdftex]{graphicx}
 
-\newcommand{\foo}{\hspace{-2.3pt}$\bullet$ \hspace{5pt}}
+\newcommand{\timeline}{\hspace{-2.3pt}$\bullet$ \hspace{5pt}}
 
 \usepackage{booktabs}
 \usepackage{tabu}
@@ -35,30 +35,31 @@ Additive manufacturing plays a key role in the printed electronics field, which 
 
 \section*{Background}
 The unparalleled computing capabilities of Artificial Intelligence (AI) and machine learning (ML) have introduced new dimensions in every science and technology field. These data hungry AI models need a large amount of data as input to give state-of-the art output, and increasing data generation and storing capabilities make this possible. The current scenario of interdisciplinary research unveils new possibilities, from medical to management, in every research field, so as in Additive Manufacturing (AM).\par
-In Additive manufacturing, machine learning models are used in various ways, e.g., defect detections. These pre-inspections increase the efficiency of the traditional manufacturing process and cost-effective in many folds. For Instance, An CNN was used in AM to make the production robust, less biased- and this algorithm was able to detect manufacturing parts with 92.4\% accuracy \parencite[]{cui}.
+In Additive manufacturing, machine learning models are used in various ways, e.g., defect detection. These pre-inspections increase the efficiency of the traditional manufacturing process and cost-effective in many folds. For Instance, An CNN was used in AM to make the production robust, less biased- and this algorithm was able to detect manufacturing parts with 92.4\% accuracy \parencite[]{cui}.
 
 \section*{Goal and Objectives}
-The main goal is to reduce the number of experiments required to get required quality product in a LIFT system. The objective is to develop a machine learning model to reduce the cost and time required for that kind of experiment. Our research will tackle product design through the perspective of a Machine Learning algorithm taking into consideration key elements like safety, functionality, and affordability. We plan to test the effectiveness of the algorithm with different learning techniques in hopes of providing useful data for future applications in similar areas.
+The goal is to reduce number of experiment required to get required quality product in a LIFT system. The objective is to develop a machine learning model to reduce the cost and time required for that kind of experiment. Machine learning will aid reduce cost by decreasing the number of experiment required and with less time the researchers may be able to establish the process parameters to achieve the product with expected attributes.
+\pagebreak
 
 \section*{Data and Methods}
-ML is gaining interest among the researchers to be employed in different area like study in thermodynamics \parencite[]{ding}, \parencite[]{thermal},  High-Entropy Alloys (HEAs)\parencite[]{qiao}, material stablenesses \parencite[]{he}, etc. A lot of experiment has been found on LIFT process, but employing ML to predict the product quality is hardly been found for that process.\par
-Nanoparticles will be synthesized using LIFT process where laser power, water level and irradiation time will be controlled to find out respective average particle size. These process parameters will be selected as per design of experiment theory (taguchi, factorial methods) to ensure proper variability in the input to ease to develop a relation between the input and output parameters using machine learning. Since, the experiments are time-consuming and costly, with fewer samples how to build a good ML model will be a challenge and different methods will be employed (regression, neural network) with different hyperparameters to find out a dependable ML model. Besides, video/pictures will be captured during the process and these pictures will be analyzed using unsupervised learning to find out whether we can classify the quality from the pictures. Later, this will be helpful to develop in-situ monitoring of the LIFT process.\par
+ML is gaining interest among the researchers to be employed in different area like study in thermodynamics \parencite[]{ding}, \parencite[]{thermal},  High-Entropy Alloys (HEAs)\parencite[]{qiao}, material staleness's \parencite[]{he}, etc. Many experiments has been found on LIFT process, but employing ML to predict the product quality has hardly been found implemented for that process.\par
+Nanoparticles will be synthesized using LIFT process where laser power, water level and irradiation time will be controlled to find out respective average particle size. These process parameters will be selected as per design of experiment theory (taguchi, factorial methods) to ensure proper variability in the input to ease to develop a relation between the input and output parameters using machine learning. Since, the experiments are time-consuming and costly, with fewer samples how to build a good ML model will be a challenge and different methods will be employed (regression, neural network) with different hyperparameters to find out a dependable ML model. Besides, video/pictures will be captured during the process and these pictures will be analyzed using unsupervised learning to find out whether we can classify the quality from the pictures. Later, this will be helpful to develop \textit{in situ} monitoring of the LIFT process.\par
 Process are made smarter with AI, that has a wide range of application like management, auto-identification and maintenance \parencite[]{xu}. \parencite[]{bourhis}. Considered Machine learning to be able to substitute field-testing in a wide range. Recently researchers are trying to utilize machine learning in almost every sector, for example in medical sectors \parencite[]{twin}, aeronautical manufacturing industries \parencite[]{zohdi}, climate prediction \parencite[]{koc}.  Furthermore, \parencite[]{tapia}  studied predictive model for additive manufacturing and \parencite[]{kharchenko} worked on AI-assisted decision support system.
 
 \section*{Timeline}
 
 \scalebox{1}{
-\begin{tabular}{r |@{\foo} l}
+\begin{tabular}{r |@{\timeline} l}
 
-Weeek- 1 Sep'21 & Brain storming and lierature Review about the Project\\
+Week- 1 Sep'21 & Brain storming and literature Review about the Project\\
 \\
 Week- 2 & Started Writing the proposal and submission\\
 \\
 Week-3 \& 4 & Gathering  Data from the Experiment(IME LAB UTRGV)\\
 \\
-Week-1 Oct'21 & Start running models on the genereted data for aiding the lab experiments\\
+Week-1 Oct'21 & Start running models on the generated data \\&for aiding the lab experiments\\
 \\
-Week 2-4 & Finding the accurcy of our predictions by comparing with the real-lab experiments\\
+Week 2-4 & Finding the accuracy of our predictions \\ & by comparing with the real-lab experiments\\
 \\
 3 Weeks Before Submission & Final Presentation\\
 \\
@@ -67,6 +68,7 @@ Week 2-4 & Finding the accurcy of our predictions by comparing with the real-lab
 \end{tabular}
 }
 
+\pagebreak
 \printbibliography
 
 
