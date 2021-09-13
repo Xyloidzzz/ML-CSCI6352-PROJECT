@@ -19,6 +19,101 @@
 
 \refsection{0}
   \datalist[entry]{none/global//global/global}
+    \entry{pradas}{article}{}
+      \name{author}{6}{}{%
+        {{hash=1f03db7022b9d49fd24365cff19ddb43}{%
+           family={Fernández-Pradas},
+           familyi={F\bibinithyphendelim P\bibinitperiod},
+           given={J.\bibnamedelimi M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=bce8aa3b316648c5e0f80b4c8ba62c4f}{%
+           family={Sopeña},
+           familyi={S\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=a6e914e001443326c7c81c94df3050dd}{%
+           family={González-Torres},
+           familyi={G\bibinithyphendelim T\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=dd844cbeeab84853cb000d394c364db6}{%
+           family={Arrese},
+           familyi={A\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=8e5032009b5029a8a457cf85876a302a}{%
+           family={Cirera},
+           familyi={C\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=e700e362c4efc5584a2dee135fe9a42a}{%
+           family={Serra},
+           familyi={S\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{9912cad114727f0edd2a9afa2cf2789f}
+      \strng{fullhash}{2d9e81fa12caa0d91b0d22d8c5e57f42}
+      \strng{bibnamehash}{2d9e81fa12caa0d91b0d22d8c5e57f42}
+      \strng{authorbibnamehash}{2d9e81fa12caa0d91b0d22d8c5e57f42}
+      \strng{authornamehash}{9912cad114727f0edd2a9afa2cf2789f}
+      \strng{authorfullhash}{2d9e81fa12caa0d91b0d22d8c5e57f42}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{1432-0630}
+      \field{journaltitle}{Applied Physics A}
+      \field{title}{Laser-induced forward transfer for printed electronics applications}
+      \field{volume}{214}
+      \field{year}{2018}
+      \field{pages}{124}
+      \range{pages}{1}
+      \verb{doi}
+      \verb https://doi.org/10.1007/s00339-018-1648-8
+      \endverb
+    \endentry
+    \entry{arnold}{article}{}
+      \name{author}{3}{}{%
+        {{hash=56e9b7bdc00ff704ccae2801bf0ed1a1}{%
+           family={Arnold},
+           familyi={A\bibinitperiod},
+           given={Craig\bibnamedelima B.},
+           giveni={C\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=10b8576dd203f96772b8eadc2a4b143a}{%
+           family={Serra},
+           familyi={S\bibinitperiod},
+           given={Pere},
+           giveni={P\bibinitperiod}}}%
+        {{hash=87f9f0736475a500bf9554bfafa0fc99}{%
+           family={Piqué},
+           familyi={P\bibinitperiod},
+           given={Alberto},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{831be530ccf7a72fa488871ccd1a98c9}
+      \strng{fullhash}{831be530ccf7a72fa488871ccd1a98c9}
+      \strng{bibnamehash}{831be530ccf7a72fa488871ccd1a98c9}
+      \strng{authorbibnamehash}{831be530ccf7a72fa488871ccd1a98c9}
+      \strng{authornamehash}{831be530ccf7a72fa488871ccd1a98c9}
+      \strng{authorfullhash}{831be530ccf7a72fa488871ccd1a98c9}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1938-1425}
+      \field{journaltitle}{MRS Bulletin}
+      \field{month}{1}
+      \field{number}{1}
+      \field{title}{Laser Direct-Write Techniques for Printing of Complex Materials}
+      \field{volume}{32}
+      \field{year}{2007}
+      \field{pages}{23\bibrangedash 31}
+      \range{pages}{9}
+      \verb{doi}
+      \verb https://doi.org/10.1557/mrs2007.11
+      \endverb
+    \endentry
     \entry{cui}{article}{}
       \name{author}{5}{}{%
         {{hash=905b9fb321a22810976336c059c1006c}{%
@@ -53,8 +148,8 @@
       \strng{authorbibnamehash}{f5c2e1ff963e2c17554218c8c6da3c98}
       \strng{authornamehash}{019452fac161eac702e55c945fb68334}
       \strng{authorfullhash}{f5c2e1ff963e2c17554218c8c6da3c98}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{2076-3417}
@@ -64,7 +159,70 @@
       \field{volume}{10}
       \field{year}{2020}
       \verb{doi}
-      \verb 10.3390/app10020545
+      \verb https://doi.org/10.3390/app10020545
+      \endverb
+    \endentry
+    \entry{morales}{incollection}{}
+      \name{author}{5}{}{%
+        {{hash=131d6e82fc625569617f1b33458f42d8}{%
+           family={Morales},
+           familyi={M\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=d4ededa61703c19e7e9ff943d171daa6}{%
+           family={Munoz-Martin},
+           familyi={M\bibinithyphendelim M\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=a8b024b0b87adc48d3acf0ea76bfa2e1}{%
+           family={Marquez},
+           familyi={M\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=19412b96152d31cc854d3311f804ca03}{%
+           family={Lauzurica},
+           familyi={L\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=231f60c9110ff55e09efd56051d7a858}{%
+           family={Molpeceres},
+           familyi={M\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=9a438b67163154798c7bd61b5d2a598f}{%
+           family={Lawrence},
+           familyi={L\bibinitperiod},
+           given={Jonathan},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Woodhead Publishing}%
+      }
+      \strng{namehash}{91d8fff93b7ecfbaceb8cd2442a7f1c0}
+      \strng{fullhash}{e7255578dc5d7c8271596c8707bde733}
+      \strng{bibnamehash}{e7255578dc5d7c8271596c8707bde733}
+      \strng{authorbibnamehash}{e7255578dc5d7c8271596c8707bde733}
+      \strng{authornamehash}{91d8fff93b7ecfbaceb8cd2442a7f1c0}
+      \strng{authorfullhash}{e7255578dc5d7c8271596c8707bde733}
+      \strng{editorbibnamehash}{9a438b67163154798c7bd61b5d2a598f}
+      \strng{editornamehash}{9a438b67163154798c7bd61b5d2a598f}
+      \strng{editorfullhash}{9a438b67163154798c7bd61b5d2a598f}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Advances in Laser Materials Processing (Second Edition)}
+      \field{edition}{Second Edition}
+      \field{isbn}{978-0-08-101252-9}
+      \field{series}{Woodhead Publishing Series in Welding and Other Joining Technologies}
+      \field{title}{Chapter 13 - Laser-Induced Forward Transfer Techniques and Applications}
+      \field{year}{2018}
+      \field{pages}{339\bibrangedash 379}
+      \range{pages}{41}
+      \verb{doi}
+      \verb https://doi.org/10.1016/B978-0-08-101252-9.00013-3
       \endverb
     \endentry
     \entry{ding}{article}{}
@@ -111,8 +269,8 @@
       \strng{authorbibnamehash}{27a04306e435135c9e56f028179282c7}
       \strng{authornamehash}{27a04306e435135c9e56f028179282c7}
       \strng{authorfullhash}{4c1012e5cee0613b69acccaf2c6163a8}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{1004-9541}
@@ -161,8 +319,8 @@
       \strng{authorbibnamehash}{656a2e666c90b4a9d829744c57d23457}
       \strng{authornamehash}{b20d3f6df2155c258268986f028bbd71}
       \strng{authorfullhash}{656a2e666c90b4a9d829744c57d23457}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{0360-1323}
@@ -200,8 +358,8 @@
       \strng{authorbibnamehash}{cacde407e03d2b19b0d3310117a3bbaf}
       \strng{authornamehash}{cacde407e03d2b19b0d3310117a3bbaf}
       \strng{authorfullhash}{cacde407e03d2b19b0d3310117a3bbaf}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{0925-8388}
@@ -234,8 +392,8 @@
       \strng{authorbibnamehash}{4cb19d457057da396f97c340f4dbe470}
       \strng{authornamehash}{4cb19d457057da396f97c340f4dbe470}
       \strng{authorfullhash}{4cb19d457057da396f97c340f4dbe470}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{0927-0256}
@@ -278,8 +436,8 @@
       \strng{authorbibnamehash}{3592b3bd469fc27902417232f48c5add}
       \strng{authornamehash}{a32c204d8720e995ea6c453fd1e5d9eb}
       \strng{authorfullhash}{3592b3bd469fc27902417232f48c5add}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{2666-1659}
@@ -322,8 +480,8 @@
       \strng{authorbibnamehash}{184631a3126d522f91e4e14567d8b8b5}
       \strng{authornamehash}{9189152aea8f35320eb49227d0999324}
       \strng{authorfullhash}{184631a3126d522f91e4e14567d8b8b5}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{0375-6505}
@@ -541,8 +699,8 @@
       \strng{authorbibnamehash}{981db6d95064b0ebdfee8523d6e4e3fc}
       \strng{authornamehash}{981db6d95064b0ebdfee8523d6e4e3fc}
       \strng{authorfullhash}{cda7f27881cb514c2358fc02032c0159}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{0195-668X}
@@ -555,7 +713,7 @@
       \field{pages}{4556\bibrangedash 4564}
       \range{pages}{9}
       \verb{doi}
-      \verb 10.1093/eurheartj/ehaa159
+      \verb https://doi.org/10.1093/eurheartj/ehaa159
       \endverb
     \endentry
     \entry{zohdi}{article}{}
@@ -572,8 +730,8 @@
       \strng{authorbibnamehash}{c6011c58721cf8c28705bcdc6d7ab28e}
       \strng{authornamehash}{c6011c58721cf8c28705bcdc6d7ab28e}
       \strng{authorfullhash}{c6011c58721cf8c28705bcdc6d7ab28e}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{0045-7825}
@@ -700,7 +858,7 @@
       \field{pages}{196\bibrangedash 201}
       \range{pages}{6}
       \verb{doi}
-      \verb 10.1109/DESSERT50317.2020.9125038
+      \verb https://doi.org/10.1109/DESSERT50317.2020.9125038
       \endverb
     \endentry
     \entry{duchesne}{article}{}
