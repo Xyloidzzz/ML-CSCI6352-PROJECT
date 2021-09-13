@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.8.27)  12 SEP 2021 17:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.8.27)  12 SEP 2021 19:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1093,7 +1093,7 @@ LaTeX Info: Redefining \nameref on input line 30.
 
 {a:/Software/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2]
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 7
-2.
+5.
 
 (a:/Software/texlive/2021/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
@@ -1106,10 +1106,10 @@ Package logreq Info: Writing requests to 'proposal.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 29082 strings out of 478542
- 540527 string characters out of 5849893
- 1274689 words of memory out of 5000000
- 46555 multiletter control sequences out of 15000+600000
+ 29085 strings out of 478542
+ 540624 string characters out of 5849893
+ 1275735 words of memory out of 5000000
+ 46557 multiletter control sequences out of 15000+600000
  412804 words of font info for 49 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,8n,97p,1054b,1695s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1122,10 +1122,10 @@ a:/Software/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb><a
 /Software/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb><a:/
 Software/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb><a:/S
 oftware/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sftt1000.pfb>
-Output written on proposal.pdf (3 pages, 156405 bytes).
+Output written on proposal.pdf (3 pages, 157337 bytes).
 PDF statistics:
- 113 PDF objects out of 1000 (max. 8388607)
- 91 compressed objects within 1 object stream
- 22 named destinations out of 1000 (max. 500000)
+ 116 PDF objects out of 1000 (max. 8388607)
+ 94 compressed objects within 1 object stream
+ 23 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 

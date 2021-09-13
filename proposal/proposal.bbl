@@ -703,6 +703,45 @@
       \verb 10.1109/DESSERT50317.2020.9125038
       \endverb
     \endentry
+    \entry{duchesne}{article}{}
+      \name{author}{3}{}{%
+        {{hash=c7905210046099b876e952fc12a100ec}{%
+           family={Duchesne},
+           familyi={D\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=8c635e4532a6f98e0539c2f9f5e39870}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={J.J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=d0cb59b81dbea1f27c61f7bf742d8cf5}{%
+           family={MacGregor},
+           familyi={M\bibinitperiod},
+           given={J.F.},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{2a856ae75001cffdec16ab8db8befc94}
+      \strng{fullhash}{2a856ae75001cffdec16ab8db8befc94}
+      \strng{bibnamehash}{2a856ae75001cffdec16ab8db8befc94}
+      \strng{authorbibnamehash}{2a856ae75001cffdec16ab8db8befc94}
+      \strng{authornamehash}{2a856ae75001cffdec16ab8db8befc94}
+      \strng{authorfullhash}{2a856ae75001cffdec16ab8db8befc94}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0169-7439}
+      \field{journaltitle}{Chemometrics and Intelligent Laboratory Systems}
+      \field{title}{Multivariate image analysis in the process industries: A review}
+      \field{volume}{117}
+      \field{year}{2012}
+      \field{pages}{116\bibrangedash 128}
+      \range{pages}{13}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.chemolab.2012.04.003
+      \endverb
+    \endentry
   \enddatalist
 \endrefsection
 \endinput

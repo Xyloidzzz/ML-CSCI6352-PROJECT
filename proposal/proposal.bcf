@@ -2360,6 +2360,7 @@
     <bcf:citekey order="10">koc</bcf:citekey>
     <bcf:citekey order="11">tapia</bcf:citekey>
     <bcf:citekey order="12">kharchenko</bcf:citekey>
+    <bcf:citekey order="13">duchesne</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">
