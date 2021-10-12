@@ -19,885 +19,168 @@
 
 \refsection{0}
   \datalist[entry]{none/global//global/global}
-    \entry{pradas}{article}{}
-      \name{author}{6}{}{%
-        {{hash=1f03db7022b9d49fd24365cff19ddb43}{%
-           family={Fernández-Pradas},
-           familyi={F\bibinithyphendelim P\bibinitperiod},
-           given={J.\bibnamedelimi M.},
-           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
-        {{hash=bce8aa3b316648c5e0f80b4c8ba62c4f}{%
-           family={Sopeña},
-           familyi={S\bibinitperiod},
-           given={P.},
-           giveni={P\bibinitperiod}}}%
-        {{hash=a6e914e001443326c7c81c94df3050dd}{%
-           family={González-Torres},
-           familyi={G\bibinithyphendelim T\bibinitperiod},
-           given={S.},
-           giveni={S\bibinitperiod}}}%
-        {{hash=dd844cbeeab84853cb000d394c364db6}{%
-           family={Arrese},
-           familyi={A\bibinitperiod},
-           given={J.},
-           giveni={J\bibinitperiod}}}%
-        {{hash=8e5032009b5029a8a457cf85876a302a}{%
-           family={Cirera},
-           familyi={C\bibinitperiod},
-           given={A.},
-           giveni={A\bibinitperiod}}}%
-        {{hash=e700e362c4efc5584a2dee135fe9a42a}{%
-           family={Serra},
-           familyi={S\bibinitperiod},
-           given={P.},
-           giveni={P\bibinitperiod}}}%
+    \entry{Flesch_1948}{article}{}
+      \name{author}{1}{}{%
+        {{hash=6d3976c22bb5dbac876d14c50210fe07}{%
+           family={Flesch},
+           familyi={F\bibinitperiod},
+           given={Rudolph},
+           giveni={R\bibinitperiod}}}%
       }
-      \strng{namehash}{9912cad114727f0edd2a9afa2cf2789f}
-      \strng{fullhash}{2d9e81fa12caa0d91b0d22d8c5e57f42}
-      \strng{bibnamehash}{2d9e81fa12caa0d91b0d22d8c5e57f42}
-      \strng{authorbibnamehash}{2d9e81fa12caa0d91b0d22d8c5e57f42}
-      \strng{authornamehash}{9912cad114727f0edd2a9afa2cf2789f}
-      \strng{authorfullhash}{2d9e81fa12caa0d91b0d22d8c5e57f42}
+      \list{publisher}{1}{%
+        {American Psychological Association (APA)}%
+      }
+      \strng{namehash}{6d3976c22bb5dbac876d14c50210fe07}
+      \strng{fullhash}{6d3976c22bb5dbac876d14c50210fe07}
+      \strng{bibnamehash}{6d3976c22bb5dbac876d14c50210fe07}
+      \strng{authorbibnamehash}{6d3976c22bb5dbac876d14c50210fe07}
+      \strng{authornamehash}{6d3976c22bb5dbac876d14c50210fe07}
+      \strng{authorfullhash}{6d3976c22bb5dbac876d14c50210fe07}
       \field{sortinit}{1}
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{isbn}{1432-0630}
-      \field{journaltitle}{Applied Physics A}
-      \field{title}{Laser-induced forward transfer for printed electronics applications}
-      \field{volume}{214}
-      \field{year}{2018}
-      \field{pages}{124}
-      \range{pages}{1}
+      \field{journaltitle}{Journal of Applied Psychology}
+      \field{number}{3}
+      \field{title}{A new readability yardstick.}
+      \field{volume}{32}
+      \field{year}{1948}
+      \field{pages}{221\bibrangedash 233}
+      \range{pages}{13}
       \verb{doi}
-      \verb https://doi.org/10.1007/s00339-018-1648-8
+      \verb 10.1037/h0057532
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.1037/h0057532
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1037/h0057532
       \endverb
     \endentry
-    \entry{arnold}{article}{}
-      \name{author}{3}{}{%
-        {{hash=56e9b7bdc00ff704ccae2801bf0ed1a1}{%
-           family={Arnold},
-           familyi={A\bibinitperiod},
-           given={Craig\bibnamedelima B.},
-           giveni={C\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
-        {{hash=10b8576dd203f96772b8eadc2a4b143a}{%
-           family={Serra},
-           familyi={S\bibinitperiod},
-           given={Pere},
-           giveni={P\bibinitperiod}}}%
-        {{hash=87f9f0736475a500bf9554bfafa0fc99}{%
-           family={Piqué},
-           familyi={P\bibinitperiod},
-           given={Alberto},
-           giveni={A\bibinitperiod}}}%
+    \entry{florida}{misc}{}
+      \list{organization}{1}{%
+        {The 2021 Florida Statutes}%
       }
-      \strng{namehash}{831be530ccf7a72fa488871ccd1a98c9}
-      \strng{fullhash}{831be530ccf7a72fa488871ccd1a98c9}
-      \strng{bibnamehash}{831be530ccf7a72fa488871ccd1a98c9}
-      \strng{authorbibnamehash}{831be530ccf7a72fa488871ccd1a98c9}
-      \strng{authornamehash}{831be530ccf7a72fa488871ccd1a98c9}
-      \strng{authorfullhash}{831be530ccf7a72fa488871ccd1a98c9}
+      \list{publisher}{1}{%
+        {Florida Legislature}%
+      }
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{issn}{1938-1425}
-      \field{journaltitle}{MRS Bulletin}
-      \field{month}{1}
-      \field{number}{1}
-      \field{title}{Laser Direct-Write Techniques for Printing of Complex Materials}
-      \field{volume}{32}
-      \field{year}{2007}
-      \field{pages}{23\bibrangedash 31}
-      \range{pages}{9}
-      \verb{doi}
-      \verb https://doi.org/10.1557/mrs2007.11
+      \field{chapter}{627}
+      \field{title}{INSURANCE RATES AND CONTRACTS}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&Search_String=&URL=0600-0699/0627/Sections/0627.4145.html
+      \endverb
+      \verb{url}
+      \verb http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&Search_String=&URL=0600-0699/0627/Sections/0627.4145.html
       \endverb
     \endentry
-    \entry{cui}{article}{}
+    \entry{readable_code}{article}{}
       \name{author}{5}{}{%
-        {{hash=905b9fb321a22810976336c059c1006c}{%
-           family={Cui},
-           familyi={C\bibinitperiod},
-           given={Wenyuan},
-           giveni={W\bibinitperiod}}}%
-        {{hash=64221ad7668d2c49b1ff8c91da990ce8}{%
-           family={Zhang},
-           familyi={Z\bibinitperiod},
-           given={Yunlu},
+        {{hash=43bac1c092db182fcdeab542180a47d4}{%
+           family={Mi},
+           familyi={M\bibinitperiod},
+           given={Qing},
+           giveni={Q\bibinitperiod}}}%
+        {{hash=69d587f05c8a813f8013895aefcd8183}{%
+           family={Keung},
+           familyi={K\bibinitperiod},
+           given={Jacky},
+           giveni={J\bibinitperiod}}}%
+        {{hash=282135a06a8b1cb46088e109b55bba83}{%
+           family={Xiao},
+           familyi={X\bibinitperiod},
+           given={Yan},
            giveni={Y\bibinitperiod}}}%
-        {{hash=ae71581f5a85206606419d77932d2df5}{%
-           family={Zhang},
-           familyi={Z\bibinitperiod},
-           given={Xinchang},
-           giveni={X\bibinitperiod}}}%
-        {{hash=4eadda2f2fa485d0fa4fcb1cd63ba67c}{%
-           family={Li},
-           familyi={L\bibinitperiod},
-           given={Lan},
-           giveni={L\bibinitperiod}}}%
-        {{hash=9e0fa34745f7717e56c97ed30f625ee0}{%
-           family={Liou},
-           familyi={L\bibinitperiod},
-           given={Frank},
-           giveni={F\bibinitperiod}}}%
+        {{hash=e3d0b161c5d523b0045e2d46b2eedcc9}{%
+           family={Mensah},
+           familyi={M\bibinitperiod},
+           given={Solomon},
+           giveni={S\bibinitperiod}}}%
+        {{hash=33b530e11e3d444424c74025c3480dc0}{%
+           family={Gao},
+           familyi={G\bibinitperiod},
+           given={Yujin},
+           giveni={Y\bibinitperiod}}}%
       }
-      \strng{namehash}{019452fac161eac702e55c945fb68334}
-      \strng{fullhash}{f5c2e1ff963e2c17554218c8c6da3c98}
-      \strng{bibnamehash}{f5c2e1ff963e2c17554218c8c6da3c98}
-      \strng{authorbibnamehash}{f5c2e1ff963e2c17554218c8c6da3c98}
-      \strng{authornamehash}{019452fac161eac702e55c945fb68334}
-      \strng{authorfullhash}{f5c2e1ff963e2c17554218c8c6da3c98}
+      \strng{namehash}{99083a50890bc13c6cbc1122f4c0dc35}
+      \strng{fullhash}{90a909182cf34fece9869a83ab8ae1ef}
+      \strng{bibnamehash}{90a909182cf34fece9869a83ab8ae1ef}
+      \strng{authorbibnamehash}{90a909182cf34fece9869a83ab8ae1ef}
+      \strng{authornamehash}{99083a50890bc13c6cbc1122f4c0dc35}
+      \strng{authorfullhash}{90a909182cf34fece9869a83ab8ae1ef}
       \field{sortinit}{3}
       \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{issn}{2076-3417}
-      \field{journaltitle}{Applied Sciences}
-      \field{number}{2}
-      \field{title}{Metal Additive Manufacturing Parts Inspection Using Convolutional Neural Network}
-      \field{volume}{10}
-      \field{year}{2020}
+      \field{issn}{0950-5849}
+      \field{journaltitle}{Information and Software Technology}
+      \field{title}{Improving code readability classification using convolutional neural networks}
+      \field{volume}{104}
+      \field{year}{2018}
+      \field{pages}{60\bibrangedash 71}
+      \range{pages}{12}
       \verb{doi}
-      \verb https://doi.org/10.3390/app10020545
+      \verb https://doi.org/10.1016/j.infsof.2018.07.006
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0950584918301496
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0950584918301496
       \endverb
     \endentry
-    \entry{morales}{incollection}{}
-      \name{author}{5}{}{%
-        {{hash=131d6e82fc625569617f1b33458f42d8}{%
-           family={Morales},
+    \entry{read_down}{article}{}
+      \name{author}{4}{}{%
+        {{hash=e0937b5b8d7347d247d3386989e98477}{%
+           family={Plavén-Sigray},
+           familyi={P\bibinithyphendelim S\bibinitperiod},
+           given={Pontus},
+           giveni={P\bibinitperiod}}}%
+        {{hash=01c276fd7b6c47cb3c85bc21c350ad1f}{%
+           family={Matheson},
            familyi={M\bibinitperiod},
-           given={M.},
-           giveni={M\bibinitperiod}}}%
-        {{hash=d4ededa61703c19e7e9ff943d171daa6}{%
-           family={Munoz-Martin},
-           familyi={M\bibinithyphendelim M\bibinitperiod},
-           given={D.},
-           giveni={D\bibinitperiod}}}%
-        {{hash=a8b024b0b87adc48d3acf0ea76bfa2e1}{%
-           family={Marquez},
-           familyi={M\bibinitperiod},
-           given={A.},
-           giveni={A\bibinitperiod}}}%
-        {{hash=19412b96152d31cc854d3311f804ca03}{%
-           family={Lauzurica},
-           familyi={L\bibinitperiod},
-           given={S.},
-           giveni={S\bibinitperiod}}}%
-        {{hash=231f60c9110ff55e09efd56051d7a858}{%
-           family={Molpeceres},
-           familyi={M\bibinitperiod},
-           given={C.},
-           giveni={C\bibinitperiod}}}%
-      }
-      \name{editor}{1}{}{%
-        {{hash=9a438b67163154798c7bd61b5d2a598f}{%
-           family={Lawrence},
-           familyi={L\bibinitperiod},
-           given={Jonathan},
-           giveni={J\bibinitperiod}}}%
+           given={Granville\bibnamedelima James},
+           giveni={G\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=f62415a29511a4483022a8b981c41b34}{%
+           family={Schiffler},
+           familyi={S\bibinitperiod},
+           given={Björn\bibnamedelima Christian},
+           giveni={B\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=dbe1dfbf816c27c2ae2350230cda97b8}{%
+           family={Thompson},
+           familyi={T\bibinitperiod},
+           given={William\bibnamedelima Hedley},
+           giveni={W\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
-        {Woodhead Publishing}%
+        {eLife Sciences Publications, Ltd}%
       }
-      \strng{namehash}{91d8fff93b7ecfbaceb8cd2442a7f1c0}
-      \strng{fullhash}{e7255578dc5d7c8271596c8707bde733}
-      \strng{bibnamehash}{e7255578dc5d7c8271596c8707bde733}
-      \strng{authorbibnamehash}{e7255578dc5d7c8271596c8707bde733}
-      \strng{authornamehash}{91d8fff93b7ecfbaceb8cd2442a7f1c0}
-      \strng{authorfullhash}{e7255578dc5d7c8271596c8707bde733}
-      \strng{editorbibnamehash}{9a438b67163154798c7bd61b5d2a598f}
-      \strng{editornamehash}{9a438b67163154798c7bd61b5d2a598f}
-      \strng{editorfullhash}{9a438b67163154798c7bd61b5d2a598f}
+      \strng{namehash}{b376beaf0ff0b22f4a388f69adadc636}
+      \strng{fullhash}{dfd1fa08f4eb24fce522ab8cb3aa3a3b}
+      \strng{bibnamehash}{dfd1fa08f4eb24fce522ab8cb3aa3a3b}
+      \strng{authorbibnamehash}{dfd1fa08f4eb24fce522ab8cb3aa3a3b}
+      \strng{authornamehash}{b376beaf0ff0b22f4a388f69adadc636}
+      \strng{authorfullhash}{dfd1fa08f4eb24fce522ab8cb3aa3a3b}
       \field{sortinit}{4}
       \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Advances in Laser Materials Processing (Second Edition)}
-      \field{edition}{Second Edition}
-      \field{isbn}{978-0-08-101252-9}
-      \field{series}{Woodhead Publishing Series in Welding and Other Joining Technologies}
-      \field{title}{Chapter 13 - Laser-Induced Forward Transfer Techniques and Applications}
-      \field{year}{2018}
-      \field{pages}{339\bibrangedash 379}
-      \range{pages}{41}
-      \verb{doi}
-      \verb https://doi.org/10.1016/B978-0-08-101252-9.00013-3
-      \endverb
-    \endentry
-    \entry{ding}{article}{}
-      \name{author}{7}{}{%
-        {{hash=039f53beb35e5e2cf492ee8823ef23ff}{%
-           family={Ding},
-           familyi={D\bibinitperiod},
-           given={Jiaqi},
-           giveni={J\bibinitperiod}}}%
-        {{hash=be5a888e647feea4c9160b35187f1a63}{%
-           family={Xu},
-           familyi={X\bibinitperiod},
-           given={Nan},
-           giveni={N\bibinitperiod}}}%
-        {{hash=dbeb1533401e588e41a8e88bf56e8ccd}{%
-           family={Nguyen},
-           familyi={N\bibinitperiod},
-           given={Manh\bibnamedelima Tien},
-           giveni={M\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
-        {{hash=c6eb917ce9731df8e1d55d8528c8cc27}{%
-           family={Qiao},
-           familyi={Q\bibinitperiod},
-           given={Qi},
-           giveni={Q\bibinitperiod}}}%
-        {{hash=01da656187276edb834ce40c5fee1fbe}{%
-           family={Shi},
-           familyi={S\bibinitperiod},
-           given={Yao},
-           giveni={Y\bibinitperiod}}}%
-        {{hash=ae31170eaf42c18409aa164a618b50b2}{%
-           family={He},
-           familyi={H\bibinitperiod},
-           given={Yi},
-           giveni={Y\bibinitperiod}}}%
-        {{hash=7690ebd7b6037b7ff98d901b5e0364be}{%
-           family={Shao},
-           familyi={S\bibinitperiod},
-           given={Qing},
-           giveni={Q\bibinitperiod}}}%
-      }
-      \strng{namehash}{27a04306e435135c9e56f028179282c7}
-      \strng{fullhash}{4c1012e5cee0613b69acccaf2c6163a8}
-      \strng{bibnamehash}{27a04306e435135c9e56f028179282c7}
-      \strng{authorbibnamehash}{27a04306e435135c9e56f028179282c7}
-      \strng{authornamehash}{27a04306e435135c9e56f028179282c7}
-      \strng{authorfullhash}{4c1012e5cee0613b69acccaf2c6163a8}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{issn}{1004-9541}
-      \field{journaltitle}{Chinese Journal of Chemical Engineering}
-      \field{note}{Frontiers of Chemical Engineering Thermodynamics}
-      \field{title}{Machine learning for molecular thermodynamics}
-      \field{volume}{31}
-      \field{year}{2021}
-      \field{pages}{227\bibrangedash 239}
-      \range{pages}{13}
-      \verb{doi}
-      \verb https://doi.org/10.1016/j.cjche.2020.10.044
-      \endverb
-    \endentry
-    \entry{thermal}{article}{}
-      \name{author}{5}{}{%
-        {{hash=d92ff4cd406b1bef31a7b8450bc6fb40}{%
-           family={Bhamare},
-           familyi={B\bibinitperiod},
-           given={Dnyandip\bibnamedelima K.},
-           giveni={D\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
-        {{hash=a0f8d006b4dd7611a05fbc69abd4a7b7}{%
-           family={Saikia},
-           familyi={S\bibinitperiod},
-           given={Pranaynil},
-           giveni={P\bibinitperiod}}}%
-        {{hash=d8edb551a9bb13d9267791bcf920acf2}{%
-           family={Rathod},
-           familyi={R\bibinitperiod},
-           given={Manish\bibnamedelima K.},
-           giveni={M\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
-        {{hash=69326acb6ace3b891f41d6d36ea0cce4}{%
-           family={Rakshit},
-           familyi={R\bibinitperiod},
-           given={Dibakar},
-           giveni={D\bibinitperiod}}}%
-        {{hash=a549da1b0f642155f824abf3a6c59d47}{%
-           family={Banerjee},
-           familyi={B\bibinitperiod},
-           given={Jyotirmay},
-           giveni={J\bibinitperiod}}}%
-      }
-      \strng{namehash}{b20d3f6df2155c258268986f028bbd71}
-      \strng{fullhash}{656a2e666c90b4a9d829744c57d23457}
-      \strng{bibnamehash}{656a2e666c90b4a9d829744c57d23457}
-      \strng{authorbibnamehash}{656a2e666c90b4a9d829744c57d23457}
-      \strng{authornamehash}{b20d3f6df2155c258268986f028bbd71}
-      \strng{authorfullhash}{656a2e666c90b4a9d829744c57d23457}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{issn}{0360-1323}
-      \field{journaltitle}{Building and Environment}
-      \field{title}{A machine learning and deep learning based approach to predict the thermal performance of phase change material integrated building envelope}
-      \field{volume}{199}
-      \field{year}{2021}
-      \field{pages}{107927}
-      \range{pages}{1}
-      \verb{doi}
-      \verb https://doi.org/10.1016/j.buildenv.2021.107927
-      \endverb
-    \endentry
-    \entry{qiao}{article}{}
-      \name{author}{3}{}{%
-        {{hash=285b321ba1862ab7480b90ef517886c4}{%
-           family={Qiao},
-           familyi={Q\bibinitperiod},
-           given={Ling},
-           giveni={L\bibinitperiod}}}%
-        {{hash=bc6c6f66f139beef784a50d9f1485019}{%
-           family={Liu},
-           familyi={L\bibinitperiod},
-           given={Yong},
-           giveni={Y\bibinitperiod}}}%
-        {{hash=5bc469284eded24e71ebf797127f1edd}{%
-           family={Zhu},
-           familyi={Z\bibinitperiod},
-           given={Jingchuan},
-           giveni={J\bibinitperiod}}}%
-      }
-      \strng{namehash}{cacde407e03d2b19b0d3310117a3bbaf}
-      \strng{fullhash}{cacde407e03d2b19b0d3310117a3bbaf}
-      \strng{bibnamehash}{cacde407e03d2b19b0d3310117a3bbaf}
-      \strng{authorbibnamehash}{cacde407e03d2b19b0d3310117a3bbaf}
-      \strng{authornamehash}{cacde407e03d2b19b0d3310117a3bbaf}
-      \strng{authorfullhash}{cacde407e03d2b19b0d3310117a3bbaf}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{issn}{0925-8388}
-      \field{journaltitle}{Journal of Alloys and Compounds}
-      \field{title}{A focused review on machine learning aided high-throughput methods in high entropy alloy}
-      \field{volume}{877}
-      \field{year}{2021}
-      \field{pages}{160295}
-      \range{pages}{1}
-      \verb{doi}
-      \verb https://doi.org/10.1016/j.jallcom.2021.160295
-      \endverb
-    \endentry
-    \entry{he}{article}{}
-      \name{author}{2}{}{%
-        {{hash=3a1dd124aae45b320d1d2b5926242a0f}{%
-           family={He},
-           familyi={H\bibinitperiod},
-           given={Mu},
-           giveni={M\bibinitperiod}}}%
-        {{hash=f4a4cbf770add19c206827116c68732e}{%
-           family={Zhang},
-           familyi={Z\bibinitperiod},
-           given={Lei},
-           giveni={L\bibinitperiod}}}%
-      }
-      \strng{namehash}{4cb19d457057da396f97c340f4dbe470}
-      \strng{fullhash}{4cb19d457057da396f97c340f4dbe470}
-      \strng{bibnamehash}{4cb19d457057da396f97c340f4dbe470}
-      \strng{authorbibnamehash}{4cb19d457057da396f97c340f4dbe470}
-      \strng{authornamehash}{4cb19d457057da396f97c340f4dbe470}
-      \strng{authorfullhash}{4cb19d457057da396f97c340f4dbe470}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{issn}{0927-0256}
-      \field{journaltitle}{Computational Materials Science}
-      \field{title}{Machine learning and symbolic regression investigation on stability of MXene materials}
-      \field{volume}{196}
-      \field{year}{2021}
-      \field{pages}{110578}
-      \range{pages}{1}
-      \verb{doi}
-      \verb https://doi.org/10.1016/j.commatsci.2021.110578
-      \endverb
-    \endentry
-    \entry{xu}{article}{}
-      \name{author}{4}{}{%
-        {{hash=c0ee1c11011d1dee44cc3c73c8bb8398}{%
-           family={Xu},
-           familyi={X\bibinitperiod},
-           given={Yayin},
-           giveni={Y\bibinitperiod}}}%
-        {{hash=72af1a460a6fb4aa57b04db4a4e99244}{%
-           family={Zhou},
-           familyi={Z\bibinitperiod},
-           given={Ying},
-           giveni={Y\bibinitperiod}}}%
-        {{hash=522ffa017692b4ab30ce24e09791d408}{%
-           family={Sekula},
-           familyi={S\bibinitperiod},
-           given={Przemyslaw},
-           giveni={P\bibinitperiod}}}%
-        {{hash=6f36c8efac0149b9719e50b15e57861d}{%
-           family={Ding},
-           familyi={D\bibinitperiod},
-           given={Lieyun},
-           giveni={L\bibinitperiod}}}%
-      }
-      \strng{namehash}{a32c204d8720e995ea6c453fd1e5d9eb}
-      \strng{fullhash}{3592b3bd469fc27902417232f48c5add}
-      \strng{bibnamehash}{3592b3bd469fc27902417232f48c5add}
-      \strng{authorbibnamehash}{3592b3bd469fc27902417232f48c5add}
-      \strng{authornamehash}{a32c204d8720e995ea6c453fd1e5d9eb}
-      \strng{authorfullhash}{3592b3bd469fc27902417232f48c5add}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{issn}{2666-1659}
-      \field{journaltitle}{Developments in the Built Environment}
-      \field{title}{Machine learning in construction: From shallow to deep learning}
+      \field{journaltitle}{eLife}
+      \field{month}{9}
+      \field{title}{The readability of scientific texts is decreasing over time}
       \field{volume}{6}
-      \field{year}{2021}
-      \field{pages}{100045}
-      \range{pages}{1}
+      \field{year}{2017}
       \verb{doi}
-      \verb https://doi.org/10.1016/j.dibe.2021.100045
+      \verb 10.7554/elife.27725
       \endverb
-    \endentry
-    \entry{bourhis}{article}{}
-      \name{author}{4}{}{%
-        {{hash=e19702dd3308c99d02f21808cb277032}{%
-           family={Bourhis},
-           familyi={B\bibinitperiod},
-           given={Paul},
-           giveni={P\bibinitperiod}}}%
-        {{hash=0771ea78807a02905385be18a1c25e0d}{%
-           family={Cousin},
-           familyi={C\bibinitperiod},
-           given={Benoît},
-           giveni={B\bibinitperiod}}}%
-        {{hash=805bb19861ab4526f3f4fe4cdbd1e4ad}{%
-           family={{Rotta Loria}},
-           familyi={R\bibinitperiod},
-           given={Alessandro\bibnamedelima F.},
-           giveni={A\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
-        {{hash=d3430b661666b81bcb509b340c5a7153}{%
-           family={Laloui},
-           familyi={L\bibinitperiod},
-           given={Lyesse},
-           giveni={L\bibinitperiod}}}%
-      }
-      \strng{namehash}{9189152aea8f35320eb49227d0999324}
-      \strng{fullhash}{184631a3126d522f91e4e14567d8b8b5}
-      \strng{bibnamehash}{184631a3126d522f91e4e14567d8b8b5}
-      \strng{authorbibnamehash}{184631a3126d522f91e4e14567d8b8b5}
-      \strng{authornamehash}{9189152aea8f35320eb49227d0999324}
-      \strng{authorfullhash}{184631a3126d522f91e4e14567d8b8b5}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{issn}{0375-6505}
-      \field{journaltitle}{Geothermics}
-      \field{title}{Machine learning enhancement of thermal response tests for geothermal potential evaluations at site and regional scales}
-      \field{volume}{95}
-      \field{year}{2021}
-      \field{pages}{102132}
-      \range{pages}{1}
-      \verb{doi}
-      \verb https://doi.org/10.1016/j.geothermics.2021.102132
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.7554/eLife.27725
       \endverb
-    \endentry
-    \entry{twin}{article}{}
-      \name{author}{39}{}{%
-        {{hash=4e6ead203d4d8a1146353b17b17308a0}{%
-           family={Corral-Acero},
-           familyi={C\bibinithyphendelim A\bibinitperiod},
-           given={Jorge},
-           giveni={J\bibinitperiod}}}%
-        {{hash=faeca7b10c4cc68aec441f38a756f525}{%
-           family={Margara},
-           familyi={M\bibinitperiod},
-           given={Francesca},
-           giveni={F\bibinitperiod}}}%
-        {{hash=f4542097569592b57ceb61ce8fa7ea41}{%
-           family={Marciniak},
-           familyi={M\bibinitperiod},
-           given={Maciej},
-           giveni={M\bibinitperiod}}}%
-        {{hash=de0567cce64a338fb9b6d7cc656fd4d4}{%
-           family={Rodero},
-           familyi={R\bibinitperiod},
-           given={Cristobal},
-           giveni={C\bibinitperiod}}}%
-        {{hash=4c7d2f8cef2f202bb621fe259c5094a5}{%
-           family={Loncaric},
-           familyi={L\bibinitperiod},
-           given={Filip},
-           giveni={F\bibinitperiod}}}%
-        {{hash=fbb3eadd234ef6da5bdaabfbf8a5f55d}{%
-           family={Feng},
-           familyi={F\bibinitperiod},
-           given={Yingjing},
-           giveni={Y\bibinitperiod}}}%
-        {{hash=1276d078ff3d32fede13ee25162c246c}{%
-           family={Gilbert},
-           familyi={G\bibinitperiod},
-           given={Andrew},
-           giveni={A\bibinitperiod}}}%
-        {{hash=ba77ce154b8023c7b8403330694c6f7e}{%
-           family={Fernandes},
-           familyi={F\bibinitperiod},
-           given={Joao\bibnamedelima F},
-           giveni={J\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
-        {{hash=c51581a28bd003dedf6132919b2a1a47}{%
-           family={Bukhari},
-           familyi={B\bibinitperiod},
-           given={Hassaan\bibnamedelima A},
-           giveni={H\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=d2d3edc878759588f3b788e74f7a0c81}{%
-           family={Wajdan},
-           familyi={W\bibinitperiod},
-           given={Ali},
-           giveni={A\bibinitperiod}}}%
-        {{hash=62dbe61ed77544e6243df8446b976531}{%
-           family={Martinez},
-           familyi={M\bibinitperiod},
-           given={Manuel\bibnamedelima Villegas},
-           giveni={M\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
-        {{hash=092e5a9f643e583dcb16c56b65e911f4}{%
-           family={Santos},
-           familyi={S\bibinitperiod},
-           given={Mariana\bibnamedelima Sousa},
-           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
-        {{hash=d28ed6755d680df6fe573cdae7548fe1}{%
-           family={Shamohammdi},
-           familyi={S\bibinitperiod},
-           given={Mehrdad},
-           giveni={M\bibinitperiod}}}%
-        {{hash=5ab35ca0c89308b4b692e1c8bf903594}{%
-           family={Luo},
-           familyi={L\bibinitperiod},
-           given={Hongxing},
-           giveni={H\bibinitperiod}}}%
-        {{hash=0db177a59ea7304414be24f0231de38d}{%
-           family={Westphal},
-           familyi={W\bibinitperiod},
-           given={Philip},
-           giveni={P\bibinitperiod}}}%
-        {{hash=fc9f81c936cbf62858ccd56540cba0da}{%
-           family={Leeson},
-           familyi={L\bibinitperiod},
-           given={Paul},
-           giveni={P\bibinitperiod}}}%
-        {{hash=17ebd8f94e8225864db8a9fd3f24250d}{%
-           family={DiAchille},
-           familyi={D\bibinitperiod},
-           given={Paolo},
-           giveni={P\bibinitperiod}}}%
-        {{hash=05529fc23df102001ec6a78f5f0ed550}{%
-           family={Gurev},
-           familyi={G\bibinitperiod},
-           given={Viatcheslav},
-           giveni={V\bibinitperiod}}}%
-        {{hash=2bbbff98e8f87dd02bf0f7271fbe956b}{%
-           family={Mayr},
-           familyi={M\bibinitperiod},
-           given={Manuel},
-           giveni={M\bibinitperiod}}}%
-        {{hash=d7d5a469e6cacf7fd17b60a8ea17b99f}{%
-           family={Geris},
-           familyi={G\bibinitperiod},
-           given={Liesbet},
-           giveni={L\bibinitperiod}}}%
-        {{hash=68e022ee336c8944dabb62135a08c028}{%
-           family={Pathmanathan},
-           familyi={P\bibinitperiod},
-           given={Pras},
-           giveni={P\bibinitperiod}}}%
-        {{hash=c3b61f49d2dcb7cb420834e610534af6}{%
-           family={Morrison},
-           familyi={M\bibinitperiod},
-           given={Tina},
-           giveni={T\bibinitperiod}}}%
-        {{hash=7db9fadddd1b41cd9e925899376d622a}{%
-           family={Cornelussen},
-           familyi={C\bibinitperiod},
-           given={Richard},
-           giveni={R\bibinitperiod}}}%
-        {{hash=c16b73be9e28d9749a2bf1cc98f2c08f}{%
-           family={Prinzen},
-           familyi={P\bibinitperiod},
-           given={Frits},
-           giveni={F\bibinitperiod}}}%
-        {{hash=d8f2848bcd1a10a5e77f44c019214ef1}{%
-           family={Delhaas},
-           familyi={D\bibinitperiod},
-           given={Tammo},
-           giveni={T\bibinitperiod}}}%
-        {{hash=fef2cb0fd591ae77afe3f2a5ca9c1087}{%
-           family={Doltra},
-           familyi={D\bibinitperiod},
-           given={Ada},
-           giveni={A\bibinitperiod}}}%
-        {{hash=3127e7e5a49c06826152b5f9d607432c}{%
-           family={Sitges},
-           familyi={S\bibinitperiod},
-           given={Marta},
-           giveni={M\bibinitperiod}}}%
-        {{hash=74230af5a5c28744f1676508e9551f9d}{%
-           family={Vigmond},
-           familyi={V\bibinitperiod},
-           given={Edward\bibnamedelima J},
-           giveni={E\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
-        {{hash=18fbc01182030c18ff9a4cd1c2e3b842}{%
-           family={Zacur},
-           familyi={Z\bibinitperiod},
-           given={Ernesto},
-           giveni={E\bibinitperiod}}}%
-        {{hash=445880490a3b93d50c56142a2967d513}{%
-           family={Grau},
-           familyi={G\bibinitperiod},
-           given={Vicente},
-           giveni={V\bibinitperiod}}}%
-        {{hash=3bbb55ee58634cb09a88d5283b697a1e}{%
-           family={Rodriguez},
-           familyi={R\bibinitperiod},
-           given={Blanca},
-           giveni={B\bibinitperiod}}}%
-        {{hash=68da595469881b20354f313235dcda5b}{%
-           family={Remme},
-           familyi={R\bibinitperiod},
-           given={Espen\bibnamedelima W},
-           giveni={E\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
-        {{hash=faedb4239a6833cfa95f23dcc6562d93}{%
-           family={Niederer},
-           familyi={N\bibinitperiod},
-           given={Steven},
-           giveni={S\bibinitperiod}}}%
-        {{hash=ff1dcdbba317a014c8c7b440907c4572}{%
-           family={Mortier},
-           familyi={M\bibinitperiod},
-           given={Peter},
-           giveni={P\bibinitperiod}}}%
-        {{hash=16c5447f388609877d725c05098cb033}{%
-           family={McLeod},
-           familyi={M\bibinitperiod},
-           given={Kristin},
-           giveni={K\bibinitperiod}}}%
-        {{hash=d9af38439266e532a3e39987fa00c90f}{%
-           family={Potse},
-           familyi={P\bibinitperiod},
-           given={Mark},
-           giveni={M\bibinitperiod}}}%
-        {{hash=efaef66a32104895fc5a4a55af16ec74}{%
-           family={Pueyo},
-           familyi={P\bibinitperiod},
-           given={Esther},
-           giveni={E\bibinitperiod}}}%
-        {{hash=26642e619c0a4de6957b730480676cde}{%
-           family={Bueno-Orovio},
-           familyi={B\bibinithyphendelim O\bibinitperiod},
-           given={Alfonso},
-           giveni={A\bibinitperiod}}}%
-        {{hash=b269f4619204762587f40e38364769d1}{%
-           family={Lamata},
-           familyi={L\bibinitperiod},
-           given={Pablo},
-           giveni={P\bibinitperiod}}}%
-      }
-      \strng{namehash}{981db6d95064b0ebdfee8523d6e4e3fc}
-      \strng{fullhash}{cda7f27881cb514c2358fc02032c0159}
-      \strng{bibnamehash}{981db6d95064b0ebdfee8523d6e4e3fc}
-      \strng{authorbibnamehash}{981db6d95064b0ebdfee8523d6e4e3fc}
-      \strng{authornamehash}{981db6d95064b0ebdfee8523d6e4e3fc}
-      \strng{authorfullhash}{cda7f27881cb514c2358fc02032c0159}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{issn}{0195-668X}
-      \field{journaltitle}{European Heart Journal}
-      \field{month}{03}
-      \field{number}{48}
-      \field{title}{{The ‘Digital Twin’ to enable the vision of precision cardiology}}
-      \field{volume}{41}
-      \field{year}{2020}
-      \field{pages}{4556\bibrangedash 4564}
-      \range{pages}{9}
-      \verb{doi}
-      \verb https://doi.org/10.1093/eurheartj/ehaa159
-      \endverb
-    \endentry
-    \entry{zohdi}{article}{}
-      \name{author}{1}{}{%
-        {{hash=c6011c58721cf8c28705bcdc6d7ab28e}{%
-           family={Zohdi},
-           familyi={Z\bibinitperiod},
-           given={T.I.},
-           giveni={T\bibinitperiod}}}%
-      }
-      \strng{namehash}{c6011c58721cf8c28705bcdc6d7ab28e}
-      \strng{fullhash}{c6011c58721cf8c28705bcdc6d7ab28e}
-      \strng{bibnamehash}{c6011c58721cf8c28705bcdc6d7ab28e}
-      \strng{authorbibnamehash}{c6011c58721cf8c28705bcdc6d7ab28e}
-      \strng{authornamehash}{c6011c58721cf8c28705bcdc6d7ab28e}
-      \strng{authorfullhash}{c6011c58721cf8c28705bcdc6d7ab28e}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{issn}{0045-7825}
-      \field{journaltitle}{Computer Methods in Applied Mechanics and Engineering}
-      \field{title}{A digital twin framework for machine learning optimization of aerial fire fighting and pilot safety}
-      \field{volume}{373}
-      \field{year}{2021}
-      \field{pages}{113446}
-      \range{pages}{1}
-      \verb{doi}
-      \verb https://doi.org/10.1016/j.cma.2020.113446
-      \endverb
-    \endentry
-    \entry{koc}{article}{}
-      \name{author}{2}{}{%
-        {{hash=4dfac0cc14ce87cd4886820b4b0e30e2}{%
-           family={Koc},
-           familyi={K\bibinitperiod},
-           given={Mustafa},
-           giveni={M\bibinitperiod}}}%
-        {{hash=b410d987c9359cb83de2bb84b2d5525f}{%
-           family={Acar},
-           familyi={A\bibinitperiod},
-           given={Aktan},
-           giveni={A\bibinitperiod}}}%
-      }
-      \strng{namehash}{728b31017d99878d4fb0cdabb96f6683}
-      \strng{fullhash}{728b31017d99878d4fb0cdabb96f6683}
-      \strng{bibnamehash}{728b31017d99878d4fb0cdabb96f6683}
-      \strng{authorbibnamehash}{728b31017d99878d4fb0cdabb96f6683}
-      \strng{authornamehash}{728b31017d99878d4fb0cdabb96f6683}
-      \strng{authorfullhash}{728b31017d99878d4fb0cdabb96f6683}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{issn}{2212-0955}
-      \field{journaltitle}{Urban Climate}
-      \field{title}{Investigation of urban climates and built environment relations by using machine learning}
-      \field{volume}{37}
-      \field{year}{2021}
-      \field{pages}{100820}
-      \range{pages}{1}
-      \verb{doi}
-      \verb https://doi.org/10.1016/j.uclim.2021.100820
-      \endverb
-    \endentry
-    \entry{tapia}{article}{}
-      \name{author}{3}{}{%
-        {{hash=14933e9c6f4697428e51d02b76a39301}{%
-           family={Tapia},
-           familyi={T\bibinitperiod},
-           given={G.},
-           giveni={G\bibinitperiod}}}%
-        {{hash=edc17b72ae2879bc2502f06b30f45de8}{%
-           family={Elwany},
-           familyi={E\bibinitperiod},
-           given={A.H.},
-           giveni={A\bibinitperiod}}}%
-        {{hash=59471b9d7348d3bc29c0931150e7dc84}{%
-           family={Sang},
-           familyi={S\bibinitperiod},
-           given={H.},
-           giveni={H\bibinitperiod}}}%
-      }
-      \strng{namehash}{353adfd71c7a78656ee4c80ba786056b}
-      \strng{fullhash}{353adfd71c7a78656ee4c80ba786056b}
-      \strng{bibnamehash}{353adfd71c7a78656ee4c80ba786056b}
-      \strng{authorbibnamehash}{353adfd71c7a78656ee4c80ba786056b}
-      \strng{authornamehash}{353adfd71c7a78656ee4c80ba786056b}
-      \strng{authorfullhash}{353adfd71c7a78656ee4c80ba786056b}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{issn}{2214-8604}
-      \field{journaltitle}{Additive Manufacturing}
-      \field{note}{Special Issue on Modeling and Simulation for Additive Manufacturing}
-      \field{title}{Prediction of porosity in metal-based additive manufacturing using spatial Gaussian process models}
-      \field{volume}{12}
-      \field{year}{2016}
-      \field{pages}{282\bibrangedash 290}
-      \range{pages}{9}
-      \verb{doi}
-      \verb https://doi.org/10.1016/j.addma.2016.05.009
-      \endverb
-    \endentry
-    \entry{kharchenko}{inproceedings}{}
-      \name{author}{4}{}{%
-        {{hash=8678050c4205a67d77e3efa3101336e2}{%
-           family={Kharchenko},
-           familyi={K\bibinitperiod},
-           given={Vyacheslav},
-           giveni={V\bibinitperiod}}}%
-        {{hash=7199f413ecd2d5275223fcc36aef28e8}{%
-           family={Illiashenko},
-           familyi={I\bibinitperiod},
-           given={Oleg},
-           giveni={O\bibinitperiod}}}%
-        {{hash=7f53c2de5c6e7d7288a5d2d6bbaae3ab}{%
-           family={Morozova},
-           familyi={M\bibinitperiod},
-           given={Olga},
-           giveni={O\bibinitperiod}}}%
-        {{hash=f5d2ede02c5431a39f738f15787ec8ba}{%
-           family={Sokolov},
-           familyi={S\bibinitperiod},
-           given={Sergii},
-           giveni={S\bibinitperiod}}}%
-      }
-      \strng{namehash}{1ebfef19b8d0d37f0defad42a780930b}
-      \strng{fullhash}{35047bfc4a07c985705225ecbe7c0b8a}
-      \strng{bibnamehash}{35047bfc4a07c985705225ecbe7c0b8a}
-      \strng{authorbibnamehash}{35047bfc4a07c985705225ecbe7c0b8a}
-      \strng{authornamehash}{1ebfef19b8d0d37f0defad42a780930b}
-      \strng{authorfullhash}{35047bfc4a07c985705225ecbe7c0b8a}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{booktitle}{2020 IEEE 11th International Conference on Dependable Systems, Services and Technologies (DESSERT)}
-      \field{title}{Combination of Digital Twin and Artificial Intelligence in Manufacturing Using Industrial IoT}
-      \field{year}{2020}
-      \field{pages}{196\bibrangedash 201}
-      \range{pages}{6}
-      \verb{doi}
-      \verb https://doi.org/10.1109/DESSERT50317.2020.9125038
-      \endverb
-    \endentry
-    \entry{duchesne}{article}{}
-      \name{author}{3}{}{%
-        {{hash=c7905210046099b876e952fc12a100ec}{%
-           family={Duchesne},
-           familyi={D\bibinitperiod},
-           given={C.},
-           giveni={C\bibinitperiod}}}%
-        {{hash=8c635e4532a6f98e0539c2f9f5e39870}{%
-           family={Liu},
-           familyi={L\bibinitperiod},
-           given={J.J.},
-           giveni={J\bibinitperiod}}}%
-        {{hash=d0cb59b81dbea1f27c61f7bf742d8cf5}{%
-           family={MacGregor},
-           familyi={M\bibinitperiod},
-           given={J.F.},
-           giveni={J\bibinitperiod}}}%
-      }
-      \strng{namehash}{2a856ae75001cffdec16ab8db8befc94}
-      \strng{fullhash}{2a856ae75001cffdec16ab8db8befc94}
-      \strng{bibnamehash}{2a856ae75001cffdec16ab8db8befc94}
-      \strng{authorbibnamehash}{2a856ae75001cffdec16ab8db8befc94}
-      \strng{authornamehash}{2a856ae75001cffdec16ab8db8befc94}
-      \strng{authorfullhash}{2a856ae75001cffdec16ab8db8befc94}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{issn}{0169-7439}
-      \field{journaltitle}{Chemometrics and Intelligent Laboratory Systems}
-      \field{title}{Multivariate image analysis in the process industries: A review}
-      \field{volume}{117}
-      \field{year}{2012}
-      \field{pages}{116\bibrangedash 128}
-      \range{pages}{13}
-      \verb{doi}
-      \verb https://doi.org/10.1016/j.chemolab.2012.04.003
+      \verb{url}
+      \verb http://dx.doi.org/10.7554/eLife.27725
       \endverb
     \endentry
   \enddatalist

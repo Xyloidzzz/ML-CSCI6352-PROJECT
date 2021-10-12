@@ -23,64 +23,99 @@
 \usepackage[colorinlistoftodos]{todonotes}
 \usepackage[colorlinks=true, allcolors=blue]{hyperref}
 
-\title{Product Quality Prediction in Laser-Induced Forward Transfer (LIFT) Process using Machine Learning}
+\title{Readability Score Classification of Computer Science Publications using Neural Network}
 \author{Team 13 \\ Md Shahriar Forhad\\Amit Das\\Alfredo J. Pena\\ \\Supervisor\\Dr. Dongchul Kim}
-\date{September 10th, 2021}
+\date{October 6th, 2021}
 
 \begin{document}
 \maketitle
 
 \section*{Summary of the Proposal}
-Additive manufacturing plays a key role in the printed electronics field, which is used in a wide variety of applications, such as diverse types of sensors, solar cells etc. Colloidal ink is used to print electronic circuits by Laser-Induced Forward Transfer (LIFT) process. Finding out optimal laser parameters requires a lot of work, which is time-consuming and costly. In recent years, Machine Learning (ML) has gained interest among researchers to be employed in manufacturing industries to optimize process parameters and predict product quality. Our goal is to develop an ML model to predict the product quality in accordance with the input parameters and find out the significance of different parameters using the Principal Component Analysis (PCA). Besides, pictures will be taken during the experiment to classify the quality. The experimental data will be collected from the Industrial and Manufacturing Engineering Department of the University of Texas at Rio Grande Valley.
+Readability is an important variable when writing a cohesive scholarly paper. We often take for granted and will neglect this aspect when writing a focused paper replacing readability for word jargon and deep long-winded explanations. Computers have long been used in the analysis of text syntax. We plan to take it a step further and use Deep Learning to quantify readability in a specific type of writing. Our goal is to develop a deep learning model that analyses scholarly papers’ readability and returns a usable score, using the publications' data from Scopus\textsuperscript{®}.
 
 \section*{Background}
-The unparalleled computing capabilities of Artificial Intelligence (AI) and machine learning (ML) have introduced new dimensions in every science and technology field. These data hungry AI models need a large amount of data as input to give state-of-the art output, and increasing data generation and storing capabilities make this possible. The current scenario of interdisciplinary research unveils new possibilities, from medical to management, in every research field, so as in Additive Manufacturing (AM).
+The unparalleled computing capabilities of Artificial Intelligence (AI) and Machine Learning (ML) have introduced new dimensions in many fields. A majority of those fields being Science and Technology. The expansion of these technologies into fields unrelated to its birth are untapped and brimming with potential. Here, we will use that computing potential to explore the readability of publications.
 \par
-Laser-induced forward transfer (LIFT) utilizes pulsed laser that is incident on a thin film of a precursor ink in order to transferring the droplets of the ink onto a receiver substrate \parencite[]{pradas}. Not requiring any lithographic process makes LIFT process so intelligible and a very important tool for prototyping or repair \parencite[]{arnold}. So, LIFT process is achieving interest among the researchers as a printing technology for gas sensors, photovoltaic cells, and printed electronics. Machine learning can play a vital role \textit{in situ} monitoring and control which is a very important component of Industry 4.0.
+The most common algorithms for scoring readability is Flesch Reading Ease Score, Flesch-Kincaid Grade Level test. In Flesch-Kincaid score \parencite[]{Flesch_1948}, it rated the text on a U.S. school grade level, e.g, a score of 8.0 means that an eighth grader can understand the document. For the most published articles, aim for a score of approximately 7.0 to 8.0. The grading formula for the Flesch-Kincaid –
+\\
+\begin{equation} \label{eq1}
+(0.39 * ASL) + (11.8 * ASW) - 15.59
+\end{equation}
+\begin{center}
+ASL = Average Sentence Length\\(the number of words divided by the number of sentences)\\
+\end{center}
+\begin{center}
+ASW = Average Number of Syllables per Word\\(the number of syllables divided by the number of words)\\
+\end{center}
 \par
-Monitoring and control of a LIFT process is challenging because materials are liquefied and solidified within picoseconds. High-speed camera, especially IR camera helps us a lot to learn more about the melting and solidification process. Machine Learning can help us to classify different states, so that it will be easier for us to find out causes of different faults or diversity in output.
+Flesch Reading Ease, tested the rates of text on a 100-point scale. The higher the score, the easier it is to understand the document. For most standard files, the score ranges from 60 to 70 using the formula -
+\\
+\begin{equation} \label{eq2}
+206.835 - (1.015 * ASL) - (84.6 * ASW)
+\end{equation}
+\begin{center}
+ASL = Average Sentence Length\\(the number of words divided by the number of sentences)\\
+\end{center}
+\begin{center}
+ASW = Average Number of Syllables per Word\\(the number of syllables divided by the number of words)\\
+\end{center}
 \par
-In Additive Manufacturing, machine learning models are used in various ways, e.g., defect detection, control, and prediction. These pre-inspections increase the efficiency of the traditional manufacturing process and cost-effective in many folds. For Instance, A CNN was used in AM to make the production robust, less biased- and this algorithm was able to detect manufacturing parts with 92.4\% accuracy \parencite[]{cui}. In this way, scholars have underscored the power of AI in various ways to mitigate preprocessing costs and bolster their research.
+From US DOD to insurance policies, reading scores have a big impact on policymakers as well as common citizens. For example, Florida state mandates 45 or higher Flesch Reading Ease score for its insurance companies policy documents \parencite[]{florida}.
 \par
+There are some wonderful papers on a similar topic exploring the readability of languages in general writing or even exploring the readability of code which may also be a lot more simple for a computer to understand and may lead to the development of self written or self maintaining code in the future. As well as reduce costs for development overall. \parencite[]{readable_code}
+\par
+A paper from the Karolinska Institutet in Sweden suggests that the readability of scientific texts is trending down overall and being filled with more and more jargon every year.\parencite[]{read_down}
 \begin{figure}[h!]
   \centering
-  \includegraphics[width=175pt]{images/fig1.jpg}
-  \caption{Standard LIFT Process \parencite[]{morales}}
+  \includegraphics[width=400pt]{images/articles_up.png}
+  \caption{Articles and Journals from 1880 to 2017. \parencite[]{read_down}}
   \label{fig:stdlift}
 \end{figure}
+\begin{figure}[h!]
+  \centering
+  \includegraphics[width=400pt]{images/read_down.png}
+  \caption{Mean Flesch Reading Ease (FRE) readability for each year. \parencite[]{read_down}}
+  \label{fig:stdlift}
+\end{figure}
+\par 
+This type of trend may be dangerous to the availability of research papers to the general public and even to inter field research. The less we can understand one another the less progress we make. Although the advancement of technology over the years may suggest that there is no need to fix this readability problem, we can also assume we have simply not hit the point where we can no longer understand ourselves with ease.
+\par
+Readability being such an important attribute for a well-written paper in any field makes study with Deep Learning practices more enticing. Passing a paper through machine eyes to quantify readability will prove a useful asset for future development.
+
 
 \section*{Goal and Objectives}
-The goal is to reduce number of experiment required to get required quality product in a LIFT system. The objective is to develop a machine learning model to reduce the cost and time required for that kind of experiment. Machine learning will aid reduce cost by decreasing the number of experiment required and with less time the researchers may be able to establish the process parameters to achieve the product with expected attributes.
+ We seek to develop an application that can produce an accurate readability score for a Computer Science research paper. Taking traditional DL and ML methods and implementing a usable application to quantify readability.
 
 \section*{Data and Methods}
-ML is gaining interest among the researchers to be employed in different area like study in thermodynamics \parencite[]{ding}, \parencite[]{thermal},  High-Entropy Alloys (HEAs)\parencite[]{qiao}, material staleness's \parencite[]{he}, etc. Many experiments have been conducted on LIFT process, but employing ML to predict the product quality has hardly been found to be implemented for that process.
-\par
-Nanoparticles will be synthesized using LIFT process where laser power, water level and irradiation time will be controlled to find out respective average particle size. These process parameters will be selected as per design of experiment theory (taguchi, factorial methods) to ensure proper variability in the input to ease to develop a relation between the input and output parameters using machine learning. Since, the experiments are time-consuming and costly, with fewer samples how to build a good ML model will be a challenge and different methods will be employed (regression, neural network) with different hyperparameters to find out a dependable ML model. Besides, video or pictures will be captured during the process and these pictures will be analyzed using unsupervised learning to find out whether we can classify the quality from the pictures. Later, this will be helpful to develop \textit{in situ} monitoring of the LIFT process.\par
-Process are made smarter with AI, that has a wide range of application like management, auto-identification and maintenance \parencite[]{xu}. \parencite[]{bourhis}. Considered Machine learning to be able to substitute field-testing in a wide range. Recently researchers are trying to utilize machine learning in almost every sector, for example in medical sectors \parencite[]{twin}, aeronautical manufacturing industries \parencite[]{zohdi}, climate prediction \parencite[]{koc}.  Furthermore, \parencite[]{tapia}  studied predictive model for additive manufacturing and \parencite[]{kharchenko} worked on AI-assisted decision support system.
-\par
-We will construct a novel data set from the IME lab experiments, by using the data set we will use various image analysis models, such as- Multivariate Image Analysis (MIA), and Multivariate Image Regression (MIR) for prediction \parencite[]{duchesne}, finally, providing a case study models of using classifiers for the quality control of laser-Induced additive manufacturing.
+In this research we will create a novel dataset from the Scopus database, the largest repository of scientific publications. We will collect all the publications available in the fields of Machine Learning till now from the database. A big chunk of time will be spent in generating and cleansing this data. We found approximately 300k publications in the database. We are downloading and cleaning this in a group of less than 2k papers because of the limitation set by the SCOPUS database. Then we will use traditional reading scoring algorithms to quantify those abstracts. After that, we will use the dataset and newly acquired score, to train a deep learning model. First, we are building a pre-model for testing purposes, with around 10k papers data, and measuring the accuracy with testing data.
 
 \section*{Timeline}
 
 \scalebox{1}{
 \begin{tabular}{r |@{\timeline} l}
 
-Week- 1 Sep'21 & Brain storming and literature Review about the Project\\
+OCT Week-1 & Understanding Our Goals and Objectives with Project\\
 \\
-Week- 2 & Started Writing the proposal and submission\\
+OCT Week-1 & Begin Data Gathering from SCOPUS\\
 \\
-Week-3 \& 4 & Gathering  Data from the Experiment(IME LAB UTRGV)\\
+OCT Week-1 & Work on Building Initial Model for Readability Analysis\\
 \\
-Week-1 Oct'21 & Start running models on the generated data \\&for aiding the lab experiments\\
+OCT Week-2 & Finding the Accuracy of our Predictions\\
 \\
-Week 2-4 & Finding the accuracy of our predictions \\ & by comparing with the real-lab experiments\\
+OCT Week 3 & Add more Data and Build Expanded Model\\
+\\
+OCT Week 4 & Use Model to Test Single Paper for Readability\\
+\\
+NOV Week 1 & Build Mock Production Interface for App\\
 \\
 3 Weeks Before Submission & Final Presentation\\
 \\
- Last week of Fall'21 &  Complete project report submission\\
+ Last week of FALL'21 &  Complete Project Report Submission\\
 
 \end{tabular}
 }
+
+\pagebreak
 
 \printbibliography
 
